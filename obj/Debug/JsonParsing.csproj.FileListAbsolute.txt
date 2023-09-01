@@ -1,6 +1,0 @@
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\bin\Debug\JsonParsing.exe.config
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\bin\Debug\JsonParsing.exe
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\bin\Debug\JsonParsing.pdb
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\obj\Debug\JsonParsing.csprojResolveAssemblyReference.cache
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\obj\Debug\JsonParsing.exe
-c:\users\uns\documents\visual studio 2013\Projects\JsonParsing\JsonParsing\obj\Debug\JsonParsing.pdb
